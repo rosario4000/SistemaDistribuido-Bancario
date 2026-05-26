@@ -1,5 +1,0 @@
-C:\Users\WINDOWS10\Downloads\SisBank_AGNER\SisBank_AGNER\SisBank_AGNER\obj\Debug\netcoreapp2.2\SisBank_AGNER.csproj.AssemblyReference.cache
-C:\Users\WINDOWS10\Downloads\SisBank_AGNER\SisBank_AGNER\SisBank_AGNER\obj\Debug\netcoreapp2.2\SisBank_AGNER.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\WINDOWS10\Downloads\SisBank_AGNER\SisBank_AGNER\SisBank_AGNER\obj\Debug\netcoreapp2.2\SisBank_AGNER.AssemblyInfoInputs.cache
-C:\Users\WINDOWS10\Downloads\SisBank_AGNER\SisBank_AGNER\SisBank_AGNER\obj\Debug\netcoreapp2.2\SisBank_AGNER.AssemblyInfo.cs
-C:\Users\WINDOWS10\Downloads\SisBank_AGNER\SisBank_AGNER\SisBank_AGNER\obj\Debug\netcoreapp2.2\SisBank_AGNER.csproj.CoreCompileInputs.cache
